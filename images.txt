@@ -7,3 +7,6 @@ nginx
 mysql:8.0
 jeessy/ddns-go
 tomcat:8.5
+#tts
+timhagel/melotts-api-server
+#常用镜像
