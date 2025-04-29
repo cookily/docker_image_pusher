@@ -10,3 +10,5 @@ tomcat:8.5
 #tts
 timhagel/melotts-api-server
 #常用镜像
+teddysun/v2ray
+v2ray/official
