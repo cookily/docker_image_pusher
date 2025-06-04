@@ -12,3 +12,11 @@ timhagel/melotts-api-server
 #常用镜像
 teddysun/v2ray
 v2ray/official
+#业务线开始
+#尚硅谷-小谷充电宝项目用到的镜像
+mysql:8.0.29
+redis:7.0.10
+nacos/nacos-server:v2.1.1
+minio/minio
+rabbitmq:3.12.0-management
+mongo:7.0.0
